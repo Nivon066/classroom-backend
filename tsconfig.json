@@ -30,7 +30,5 @@
     /* Environment types */
     "types": ["node"]
   },
-  "include": ["src",
-    "src/routes"
-  ]
+  "include": ["src"]
 }
