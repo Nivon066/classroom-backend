@@ -8,6 +8,13 @@
       "when": 1770498741513,
       "tag": "0000_smart_proudstar",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772317049509,
+      "tag": "0001_fair_morg",
+      "breakpoints": true
     }
   ]
 }
